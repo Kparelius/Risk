@@ -1,0 +1,35 @@
+
+body{
+	
+}
+
+.whole {
+	background-color:white;
+  	width: 600px;
+    height: 600px;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+}
+
+#battleButton {
+    height: 50px;
+    width: 100px;
+    border-radius:10px;
+    font-size: large;
+    background-color: red;
+    display: block;
+    position:center;
+    color: black;
+}
+#att {
+    display: block;
+}
+#def {
+    display: block;
+}
+}
