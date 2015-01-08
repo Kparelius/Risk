@@ -8,13 +8,6 @@ var defenseArmies = parseInt(prompt("How many defending armies?",10));
 if (isNaN(defenseArmies)){
 	alert("Please enter the number of defending armies.")
 }
-*/
-
-// Phase 1: Dice roller. Outputs dice roll.
-
-
-
-// Phase 2: Multi-dice roller. Rolls 2 or three dice and outputs results into an array sorted from highest to lowest. 
 
 
 
