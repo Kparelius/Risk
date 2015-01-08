@@ -8,7 +8,7 @@ var defenseArmies = parseInt(prompt("How many defending armies?",10));
 if (isNaN(defenseArmies)){
 	alert("Please enter the number of defending armies.")
 }
-
+*/
 
 
 
